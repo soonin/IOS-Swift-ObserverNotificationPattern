@@ -8,8 +8,8 @@
 
 import UIKit
 
-let appleNotificationKey = "co.pooya.apple"
-let orangeNotificationKey = "co.pooya.orange"
+let appleNotificationKey = "co.app.pooya.apple"
+let orangeNotificationKey = "co.app.pooya.orange"
 
 class ViewController: UIViewController {
 
